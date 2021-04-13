@@ -1,0 +1,9 @@
+C:\Users\vasko\source\repos\task1\task1\bin\Debug\net48\task1.exe.config
+C:\Users\vasko\source\repos\task1\task1\bin\Debug\net48\task1.exe
+C:\Users\vasko\source\repos\task1\task1\bin\Debug\net48\task1.pdb
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.AssemblyInfo.cs
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.exe
+C:\Users\vasko\source\repos\task1\task1\obj\Debug\net48\task1.pdb
